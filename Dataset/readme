@@ -1,1 +1,4 @@
-
+Note the above Dataset is in CSV format.
+It has Five tables and all the tables are related to each other 
+So, while creating an interactive Power BI dashboard it is mandatory to 
+load all five tables to the PowerBI and create a Relation model between the tables.
